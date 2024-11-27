@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    {"path": "./language-server"},
+    {"path": "./language-service"},
+    {"path": "./typescript-plugin"},
+    {"path": "./vscode-mdx"}
+  ]
+}

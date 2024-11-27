@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "references": [{"path": "../language-service/tsconfig.build.json"}],
+  "compilerOptions": {
+    "noEmit": true,
+    "resolveJsonModule": true
+  }
+}
